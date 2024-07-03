@@ -1,0 +1,9 @@
+br\edu\ifsul\cc\lpoo\compras\lpoo_sistemacompras\model\Produto.class
+br\edu\ifsul\cc\lpoo\compras\lpoo_sistemacompras\dao\PersistenciaJPA.class
+br\edu\ifsul\cc\lpoo\compras\lpoo_sistemacompras\model\PessoaJuridica.class
+br\edu\ifsul\cc\lpoo\compras\lpoo_sistemacompras\model\ItensCompra.class
+br\edu\ifsul\cc\lpoo\compras\lpoo_sistemacompras\model\Compra.class
+br\edu\ifsul\cc\lpoo\compras\lpoo_sistemacompras\dao\InterfacePersistencia.class
+br\edu\ifsul\cc\lpoo\compras\lpoo_sistemacompras\LPOO_SistemaCompras.class
+br\edu\ifsul\cc\lpoo\compras\lpoo_sistemacompras\model\PessoaFisica.class
+br\edu\ifsul\cc\lpoo\compras\lpoo_sistemacompras\model\Pessoa.class

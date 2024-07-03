@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.edu.ifsul.cc.lpoo.compras.lpoo_sistema_compras.TestPersistenciaProduto
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.183 s -- in br.edu.ifsul.cc.lpoo.compras.lpoo_sistema_compras.TestPersistenciaProduto
